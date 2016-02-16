@@ -1,0 +1,13 @@
+body{
+	display: inline;
+}
+div{
+	border: solid;
+	width: 40%;
+	text-align: left;
+	margin: 0px;
+}
+li{
+	border: solid;
+	border-color: black;
+}
